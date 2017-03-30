@@ -5,35 +5,35 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 
 <url>
 <loc>./</loc>
-<lastmod>2017-03-09T11:49:55-00:00</lastmod>
+<lastmod>2017-03-30T11:49:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./archives.html</loc>
-<lastmod>2017-03-09T11:49:55-00:00</lastmod>
+<lastmod>2017-03-30T11:49:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./tags.html</loc>
-<lastmod>2017-03-09T11:49:55-00:00</lastmod>
+<lastmod>2017-03-30T11:49:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./categories.html</loc>
-<lastmod>2017-03-09T11:49:55-00:00</lastmod>
+<lastmod>2017-03-30T11:49:33-00:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.5</priority>
 </url>
 
 <url>
 <loc>./pages/about/</loc>
-<lastmod>2017-03-09T10:48:27+08:00</lastmod>
+<lastmod>2017-03-30T11:43:40+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
@@ -55,27 +55,6 @@ xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
 <loc>./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-zuo-ye.html</loc>
 <lastmod>2017-03-09T12:08:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./she-ji-er-jia-di-er-zhou.html</loc>
-<lastmod>2017-03-02T12:08:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./she-ji-er-jia-zuo-wei-biao.html</loc>
-<lastmod>2017-02-28T12:08:00+08:00</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.5</priority>
-</url>
-
-<url>
-<loc>./xie-tong-chan-pin-she-ji-shi-xi-di-yi-zhou-jian-bao.html</loc>
-<lastmod>2017-02-25T12:08:00+08:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.5</priority>
 </url>
